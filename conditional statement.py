@@ -47,3 +47,5 @@ if marks < 60:
     print("ups you're failed the exam", marks)
     percentage = marks/100*100
     print("your percentage is:",percentage, "%" )
+ print(end)
+   
